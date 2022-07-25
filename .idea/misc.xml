@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Temp/WeChat/app/src/main/res/drawable/button.xml" value="0.1855" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/drawable/edittext.xml" value="0.1855" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/drawable/msg_received.xml" value="0.1" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/drawable/msg_sent.xml" value="0.1" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.12360688956433637" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/activity_home.xml" value="0.16770833333333332" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/activity_message.xml" value="0.2" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/activity_sign_up.xml" value="0.176" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/fragment_all__users.xml" value="0.2" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/fragment_chat.xml" value="0.264" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/fragment_settings.xml" value="0.144" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/msg_received.xml" value="0.12360688956433637" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/msg_received_item.xml" value="0.1" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/msg_sent_item.xml" value="0.291866028708134" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/user_card.xml" value="0.23632993512511585" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/layout/user_item.xml" value="0.12360688956433637" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17708333333333334" />
+        <entry key="..\:/Temp/WeChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

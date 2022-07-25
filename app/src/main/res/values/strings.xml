@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="user_name">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="log_in">Log-in</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="username">username</string>
+    <string name="log_out">logout</string>
+    <string name="title_activity_bottom_navigation">Bottom_Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="all_users">All Users</string>
+    <string name="chat">Chat</string>
+    <string name="type_your_message_her">Type your message her</string>
+    <string name="hi_bro">hi bro</string>
+</resources>
